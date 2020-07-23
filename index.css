@@ -1,0 +1,18 @@
+.rec1{
+
+
+height: 300px;
+width: 300px;
+border: solid red;
+}
+
+
+.rec2{
+
+    height: 300px;
+    width: 300px;
+    border: solid green;
+    transform: rotate(45deg); 
+    margin-top: -300px;
+
+    }
